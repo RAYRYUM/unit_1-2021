@@ -1,11 +1,15 @@
-Problem ;
-Local game shop owner is requesting a game that is;
-1. entirely text based.
-2. can record the time played 
-3. can record the player's name and score
+The owner of the local game shop is an enthusiast of classic computer games. He has been looking for a talented programmer that can help him revive his passion for text-based games. He has few requirements for this task:
+
+The game has to be entirely text-based.
+The game must record the time played.
+The game must record the player name and score.
+Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 Solution; 
+Develop a text-based game meeting all criterias provided by customer.
+
 Game topic :
+
 
 software : python - The reason for this is because of it is the only software currently available to the coder.
 
@@ -28,4 +32,5 @@ It will take  4 weeks to make and will be evaluated according to the following c
  9. the program will have check-points in order to save progress made by player
  10. The program will have different story outcomes depending on player's in-game decisions
  11. The program will be downloadable via online sources
+ 
  
